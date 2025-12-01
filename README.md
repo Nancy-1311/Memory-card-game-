@@ -28,7 +28,7 @@ The goal is to flip cards and find all the matching pairs.
 Open the `index.html` file in your browser.
 
 ## Live Demo (GitHub Pages)
-https://nancy-1311.github.io/Memory-card-game-/
+https://github.com/Nancy-1311/Memory-card-game-
 
 ## Repo Link
 https://github.com/Nancy-1311/Memory-card-game-
